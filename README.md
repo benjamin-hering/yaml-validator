@@ -1,4 +1,4 @@
 yaml-validator
 ==============
 
-Linux command line YAML validator for either stand alone files, or recursively checking directories. Requires Ruby as a dependence
+Simple BASH scripts for validating YAML files from the command line, either single files or recursively all files in a directory. Requires Ruby.
